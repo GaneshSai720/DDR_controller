@@ -1,5 +1,5 @@
 # DDR_controller
-![alt text](https://github.com/GaneshSai720/DDR_controller/blob/main/image.png)
+![DDR CONTROLLER Schematic](https://github.com/GaneshSai720/DDR_controller/blob/main/image.png)
 
 
 We have designed a simple DDR controller which would be giving the control signals. And there would be also sending, and recieving data from the memory at double data rate.
