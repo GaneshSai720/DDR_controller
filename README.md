@@ -6,4 +6,4 @@ Given the controller module with some arbitary delay values for how much time sh
 
 We will be sending series of signals from the controller based on the command we receive and state of the controller(FSM), to the DRAM. 
 
-Basics of SDRAM and DDR controller, FSM of the controller are present in the IC Design Lab.pdf attached.There would be some dummy stages which were not represented in the FSM diagram, to give the latencies and send the signals based on the state of the controller in order.  
+Basics of SDRAM and schematic of simple DDR controller, FSM of the controller are present in the IC Design Lab.pdf attached.There would be some dummy stages which were not represented in the FSM diagram, to give the latencies and send the signals based on the state of the controller in order.  
