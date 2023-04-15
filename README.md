@@ -1,5 +1,5 @@
 # DDR_controller
-
+https://github.com/GaneshSai720/DDR_controller/blob/main/image.png
 We have designed a simple DDR controller which would be giving the control signals. And there would be also sending, and recieving data from the memory at double data rate.
 
 Given the controller module with some arbitary delay values for how much time should each stage take, we can reconfingure the delay in terms of cycles of each stage(stage of the controller) in the code. 
